@@ -23,5 +23,6 @@ This project features the RTL design and verification of a 4-bit Arithmetic Logi
 - `3_Vivado_Project/`: Clean Vivado `.xpr` project file and `srcs` directory.
 
 ## Visual Flow
-![Elaborated Schematic](2_Documents/F4_Elaborated_Schematic.png)
-![Utilization Report](2_Documents/F6_Utilization_Report.png)
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/0a1ad516-2484-4887-af99-81fc28c6d3a0" />
+
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/3ce4b614-dbe9-4814-a010-587f8df8d5c0" />
